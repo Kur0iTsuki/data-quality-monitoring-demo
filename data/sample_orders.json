@@ -1,0 +1,7 @@
+[
+  {"order_id": "1001", "event_time": "2026-11-01T10:00:00Z", "amount_cents": 1200, "currency": "USD"},
+  {"order_id": "1001", "event_time": "2026-11-01T10:00:00Z", "amount_cents": 1200, "currency": "USD"},
+  {"order_id": "1002", "event_time": "2026-11-01T10:05:00Z", "amount_cents": -50, "currency": "USD"},
+  {"order_id": "1003", "event_time": "", "amount_cents": 700, "currency": "USD"},
+  {"order_id": "1004", "event_time": "2026-11-01T10:10:00Z", "amount_cents": 700, "currency": "USD"}
+]
